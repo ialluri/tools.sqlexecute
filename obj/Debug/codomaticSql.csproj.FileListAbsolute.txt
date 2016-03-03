@@ -1,0 +1,16 @@
+C:\src\aktiva\public\tools.sqlexecute\obj\Debug\codomaticSql.csprojResolveAssemblyReference.cache
+C:\src\aktiva\public\tools.sqlexecute\bin\Debug\codomaticSql.exe.config
+C:\src\aktiva\public\tools.sqlexecute\bin\Debug\codomaticSql.exe
+C:\src\aktiva\public\tools.sqlexecute\bin\Debug\codomaticSql.pdb
+C:\src\aktiva\public\tools.sqlexecute\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\src\aktiva\public\tools.sqlexecute\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\src\aktiva\public\tools.sqlexecute\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\src\aktiva\public\tools.sqlexecute\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\src\aktiva\public\tools.sqlexecute\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\src\aktiva\public\tools.sqlexecute\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\src\aktiva\public\tools.sqlexecute\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\src\aktiva\public\tools.sqlexecute\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\src\aktiva\public\tools.sqlexecute\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\src\aktiva\public\tools.sqlexecute\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\src\aktiva\public\tools.sqlexecute\obj\Debug\codomaticSql.exe
+C:\src\aktiva\public\tools.sqlexecute\obj\Debug\codomaticSql.pdb
